@@ -1,4 +1,4 @@
-# DojoCloud Foundation
+# Welcome to DojoCloud
 ### *For the Allure of Computer Science*
 
 > An open source foundation dedicated to advancing computer science education through Rust-based projects and collaborative learning
@@ -6,8 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust](https://img.shields.io/badge/Built%20with-Rust-orange.svg)](https://www.rust-lang.org)
 [![Documentation](https://img.shields.io/badge/Docs-Knowledge%20Hub-green.svg)](https://dojocloud.org)
-
----
 
 ## 🎯 Mission
 
@@ -193,14 +191,12 @@ See our [Contributing Guide](./CONTRIBUTING.md) for detailed information on how 
 
 DojoCloud projects are released under the [MIT License](./LICENSE), ensuring open access to all educational resources and code.
 
----
-
 ## 🌟 Vision
 
 DojoCloud envisions a world where computer science education is accessible, practical, and driven by real-world application. Through the power of Rust and open source collaboration, we're building a community where learning and building happen together, creating lasting impact for both individuals and the broader technology ecosystem.
 
 **Join us in building the future of computer science education!**
 
----
+*DojoCloud*
 
-*DojoCloud - For the Allure of Computer Science.*
+*For the Allure of Computer Science.*
